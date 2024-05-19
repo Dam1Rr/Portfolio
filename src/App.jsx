@@ -15,7 +15,7 @@ const App = () => {
       <ServicesApp />
       <MyWorkApp />
       <ContactApp />
-      <FooterApp/>
+      <FooterApp />
     </div>
   );
 };

@@ -96,26 +96,24 @@
   padding: 25px;
   border-radius: 4px;
   background: #32323c;
-  color: #a0a0a0 ;
+  color: #a0a0a0;
   font-family: Outfit;
   font-size: 20px;
 }
 
 .contact-submit {
-    border: none;
-    color: white;
-    border-radius: 50px;
-    background: linear-gradient(264deg, #df8908 -5.09%, #b415ff 100%);
-    font-size: 22px;
-    padding: 20px 60px;
-    margin-bottom: 50px;
-    cursor: pointer;
-    transition: 0.3s;
-    
+  border: none;
+  color: white;
+  border-radius: 50px;
+  background: linear-gradient(264deg, #df8908 -5.09%, #b415ff 100%);
+  font-size: 22px;
+  padding: 20px 60px;
+  margin-bottom: 50px;
+  cursor: pointer;
+  transition: 0.3s;
 }
 
 .contact-submit:hover {
-    transform: scale(1.1);
-    transition: 0.3s;
-    
+  transform: scale(1.1);
+  transition: 0.3s;
 }

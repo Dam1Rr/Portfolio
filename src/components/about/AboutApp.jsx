@@ -16,10 +16,10 @@ const AboutApp = () => {
         <div className="about-right">
           <div className="about-para">
             <p>
-              Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-              Consequatur veniam vero debitis deleniti laborum quas commodi
-              necessitatibus at? In dignissimos quos expedita suscipit. Eum
-              repellendus sunt accusantium, doloribus non facere?
+              Hello! My name is Damir, I m 18 years old and I m a front-end
+              developer. My skills include HTML, CSS, JavaScript and React.js. I
+              strive for continuous development and am willing to take on any
+              challenge to become a better developer.
             </p>
             <p>
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores
